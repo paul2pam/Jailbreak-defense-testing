@@ -1,0 +1,18 @@
+Summarize the following text in {length} sentences.
+
+Tight formatting: make sure to follow what's below.
+
+Focus on:
+- Main points and key ideas
+- Important facts and conclusions
+- Essential context
+
+Do NOT include:
+- Minor details or examples
+- Repetitive information
+- Your own opinions
+
+Text to summarize:
+{text}
+
+Summary:

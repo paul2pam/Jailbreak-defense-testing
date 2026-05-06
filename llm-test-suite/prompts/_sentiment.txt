@@ -1,0 +1,7 @@
+Analyze the sentiment of the following text.
+
+Text:
+{text}
+
+Return ONLY valid JSON (no markdown, no backticks, no extra text) in this format:
+{"sentiment": "positive|negative|neutral|mixed", "confidence": "high|medium|low", "explanation": "brief explanation"}

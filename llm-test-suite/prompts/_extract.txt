@@ -1,0 +1,16 @@
+Extract the following information from the text below.
+
+Fields to extract:
+{fields}
+
+Text:
+{text}
+
+Instructions:
+- Return a JSON object with each field as a key
+- Use null for fields not found in the text
+- Use exact values from the text when possible
+- Do not make up information
+- JSON only, null for missing fields
+
+JSON:

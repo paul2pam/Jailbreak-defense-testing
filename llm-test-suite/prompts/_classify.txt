@@ -1,0 +1,15 @@
+Classify the following text into exactly ONE of the provided categories.
+
+Categories:
+{categories}
+
+Text to classify:
+{text}
+
+Instructions:
+- Choose the single best matching category
+- Respond with ONLY the category name
+- Do not include explanations or punctuation
+- Exactly ONE category, no extra text
+
+Category:
